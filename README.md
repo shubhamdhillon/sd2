@@ -1,4 +1,4 @@
-# sd2
+# Class program in JAVA
 A Class program in Java language.
 
 
